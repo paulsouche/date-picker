@@ -1,0 +1,12 @@
+{
+  "name": "date-picker",
+  "description": "",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "",
+    "angular-i18n": ""
+  },
+  "devDependencies": {
+    "angular-mocks": ""
+  }
+}
